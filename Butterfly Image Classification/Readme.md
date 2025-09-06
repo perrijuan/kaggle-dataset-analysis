@@ -2,6 +2,7 @@
 
 Fine-tuning de Swin Transformer para classificação de imagens.  
 Modelo hospedado no Hugging Face: https://huggingface.co/luarAssembly/swin_finetune
+<img width="1060" height="304" alt="image" src="https://github.com/user-attachments/assets/89ae11ab-999b-46a4-8e9c-1ce3933e86e0" />
 
 ## Visão Rápida
 - Arquitetura: Swin Transformer (variante base/tiny — ajuste)
