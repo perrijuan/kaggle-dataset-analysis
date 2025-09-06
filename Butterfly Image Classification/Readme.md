@@ -75,11 +75,6 @@ traced = torch.jit.trace(model, dummy)
 traced.save("swin_finetune_ts.pt")
 ```
 
-## Métricas (placeholder)
-- accuracy(val): ...
-- f1_macro: ...
-- loss_final: ...
-(Preencha quando disponível.)
 
 ## Input / Pré-processamento
 - Resize / center crop (interno pelo processor)
