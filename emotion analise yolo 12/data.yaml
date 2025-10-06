@@ -1,0 +1,5 @@
+train: /content/dataset/train
+val: /content/dataset/val
+
+nc: 7
+names: ["angry","disgust","fear","happy","neutral","sad","surprise"]
